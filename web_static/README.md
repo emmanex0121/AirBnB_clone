@@ -1,5 +1,3 @@
-BUHAHAHAHAHAHAHAHAHAHA
-
 ### AirBnB Clone By PHOENIX and YEMISI
 
 #### Description
