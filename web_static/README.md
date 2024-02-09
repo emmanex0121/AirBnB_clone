@@ -1,6 +1,6 @@
 BUHAHAHAHAHAHAHAHAHAHA
 
-### Airbnb Clone By Phoenix and Yemisi
+### AirBnB Clone By PHOENIX and YEMISI
 
 #### Description
 > This is one phase of the Airbnb Clone: the HTML and CSS part. The Images
