@@ -169,5 +169,5 @@ The recognizable commands by the interpreter are the following:
 
 ## Authors
 
-Chioma Simon | Email: [Dollarempire15@gmail.com]
-Mezie-Gift [iammeziegift@gmail.com]
+Emmanuel Nwachukwu | Email: [emmax0121@gmail.com]
+Oluwayemisi Ogunsola | Email: [anuoluwayemisi@gmail.com]
