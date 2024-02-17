@@ -40,14 +40,6 @@ button:hover {
 	white-space: nowrap;
 }
 
-/*
-.location {
-	width: calc(100%);
-	white-space: nowrap;
-	overflow: hidden;
-	text-overflow: ellipsis;
-}*/
-
 h3 {
 	font-weight: 600;
 	margin-bottom: -1.2rem;

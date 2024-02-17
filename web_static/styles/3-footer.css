@@ -1,11 +1,10 @@
 footer {
-	position: absolute;
-	bottom: 0;
-	background-color: white;
-	height: 60px;
-	width: 100%;
-	border-top: 1px solid #CCCCCC;
-	display: flex;
-	align-items: center;
-	justify-content: center;
+        background-color: #00FF00;
+        height: 60px;
+        width: 100%; /*saame thing as 100% of width inherited from width*/
+        text-align: center; /* horizontal align to center;*/
+        line-height: 60px; /*height of text space equals height of footer box*/
+
+        position: absolute;
+        bottom: 0;
 }
