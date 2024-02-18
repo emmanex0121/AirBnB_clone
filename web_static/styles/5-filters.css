@@ -19,9 +19,15 @@ button {
         width: 20%;
         border: none;
         border-radius: 4px;
+        cursor: pointer;
+        transition: opacity 0.3 ease;
 
         position: absolute; /* relative to the section filters */
         right: 30px;
+}
+
+button:hover {
+        opacity: 0.9;
 }
 
 .location,
@@ -46,7 +52,7 @@ h3 {
 
 h4 {
 	font-weight: 400;
-	size: 14px;
+	font-size: 14px; /* NOt exactly neccesary since it has inherited same 14px from body */
 	margin-top: auto;
 }
 
