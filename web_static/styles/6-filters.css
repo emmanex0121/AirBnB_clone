@@ -32,17 +32,23 @@ button:hover {
 
 .location,
 .amenities {
+	/* puts the location and amenities div in the same place
+	 * and asigning them the equal width and height */
         position: absolute;
         height: 100%;
         width: 25%;
 }
 
 .location {
+	/* set the end of the location div and
+	 * put a solid border in front */
         border-right: 1px solid #DDDDDD;
 }
 
 .amenities {
-        left: 25%;
+        /* shifting the amenities class div to start 
+	 * at the end of the location class div */
+	left: 25%;
 }
 
 h3 {
