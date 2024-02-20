@@ -117,9 +117,9 @@ article {
 	margin-top: 30px;
 }
 
-.description {
-	/*position: relative;*/
-}
+/* .description {
+	/*position: relative;
+} */
 
 article > .amenities {
 	margin-top: 40px;
@@ -187,4 +187,38 @@ article > .amenities {
 .reviews p {
 	font-size: 12px;
 	margin-top: auto;
+}
+
+.number_bathrooms p {
+	white-space: no-wrap;
+}
+
+@media screen and (max-width: 500px) {
+
+	.places h1 {
+		max-width: 200px;
+	}
+
+	p {
+		font-size: 16px;
+	}
+
+	h2 {
+		font-size: 20px !important;
+	}
+
+	h3 {
+		font-size: 15px;
+	}
+	.reviews h2 {
+		font-size: 20px;
+	}
+
+	.reviews h3 {
+		font-size: 18px;
+	}
+
+	.reviews p {
+		font-size: 16px;
+	}
 }

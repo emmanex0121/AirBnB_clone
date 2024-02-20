@@ -6,6 +6,7 @@ footer {
         line-height: 60px; /*height of text space equals height of footer box*/
 	border-top: 1px solid #CCCCCC;
 
-        position: absolute;
-        bottom: 0;
+        overflow-x: none;
+        /* position: absolute;
+        bottom: 0; */
 }
